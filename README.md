@@ -8,7 +8,7 @@ Marketing via IA para Pinterest
 
 ---
 
-### ¿Qué hace Pinfluence?
+### ¿Qué hace PinfluencePro ?
 
 Nuestra aplicación utiliza la inteligencia artificial para generar descripciones de Pines de Pinterest que sean atractivas y optimizadas para SEO, basándose en el título de un producto.
 
