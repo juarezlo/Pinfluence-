@@ -1,10 +1,10 @@
 
 Marketing via IA para Pinterest 
-# Pinfluence
+# PinfluencePro 
 
 ## Automatiza tu marketing de afiliados en Pinterest con IA
 
-**Pinfluence** es una herramienta interna y personal diseñada para ayudar a los creadores de contenido y marketers de afiliados a optimizar su presencia en Pinterest. Nuestro objetivo es simplificar la creación de contenido de alta calidad, permitiendo a los usuarios centrarse en la estrategia en lugar de en tareas repetitivas.
+**PinfluencePro** es una herramienta interna y personal diseñada para ayudar a los creadores de contenido y marketers de afiliados a optimizar su presencia en Pinterest. Nuestro objetivo es simplificar la creación de contenido de alta calidad, permitiendo a los usuarios centrarse en la estrategia en lugar de en tareas repetitivas.
 
 ---
 
