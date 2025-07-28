@@ -1,14 +1,14 @@
 
 Marketing via IA para Pinterest 
-# PinfluencePro 
+# Affiliate Spark
 
 ## Automatiza tu marketing de afiliados en Pinterest con IA
 
-**PinfluencePro** es una herramienta interna y personal diseñada para ayudar a los creadores de contenido y marketers de afiliados a optimizar su presencia en Pinterest. Nuestro objetivo es simplificar la creación de contenido de alta calidad, permitiendo a los usuarios centrarse en la estrategia en lugar de en tareas repetitivas.
+**Affiliate Spark ** es una herramienta interna y personal diseñada para ayudar a los creadores de contenido y marketers de afiliados a optimizar su presencia en Pinterest. Nuestro objetivo es simplificar la creación de contenido de alta calidad, permitiendo a los usuarios centrarse en la estrategia en lugar de en tareas repetitivas.
 
 ---
 
-### ¿Qué hace PinfluencePro ?
+### ¿Qué hace Affiliate Spark?
 
 Nuestra aplicación utiliza la inteligencia artificial para generar descripciones de Pines de Pinterest que sean atractivas y optimizadas para SEO, basándose en el título de un producto.
 
@@ -16,7 +16,7 @@ Además, se integra con la API oficial de Pinterest para permitir a los usuarios
 
 ### Nuestro Compromiso con las Directrices de Pinterest
 
-En Pinfluence, estamos firmemente comprometidos con el cumplimiento de todas las **[Directrices de la Comunidad de Pinterest](https://policy.pinterest.com/es/community-guidelines)**.
+En Affiliate Spark, estamos firmemente comprometidos con el cumplimiento de todas las **[Directrices de la Comunidad de Pinterest](https://policy.pinterest.com/es/community-guidelines)**.
 
 *   **Contenido de Calidad:** Nuestra herramienta está diseñada para fomentar la creación de contenido auténtico y de valor, no para generar spam ni contenido de baja calidad.
 *   **Transparencia:** Requerimos que nuestros usuarios divulguen sus enlaces de afiliado de acuerdo con las políticas de Pinterest y las regulaciones locales (por ejemplo, usando hashtags como `#afiliado`).
