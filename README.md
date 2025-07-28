@@ -1,8 +1,6 @@
-# Pinfluence-
+
 Marketing via IA para Pinterest 
 # Pinfluence
-
-![Pinfluence Logo](https://raw.githubusercontent.com/google/prompt-gallery/main/community/prototyping/pinfluence/logo.svg)
 
 ## Automatiza tu marketing de afiliados en Pinterest con IA
 
